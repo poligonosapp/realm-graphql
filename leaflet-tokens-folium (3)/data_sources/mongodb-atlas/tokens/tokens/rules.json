@@ -1,0 +1,22 @@
+{
+    "collection": "tokens",
+    "database": "tokens",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {
+                "folium": "pk.eyJ1IjoicG9saWdvbm9zYXBwIiwiYSI6ImNrczZuMTR5cTM5bTkydm83ZnVmbTR1anAifQ.ylTM4p15hf6QzOjCQXrB3g"
+            },
+            "fields": {
+                "polygon": {},
+                "type": {}
+            },
+            "read": true,
+            "write": false,
+            "insert": true,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}

@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poligonos_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poligonos_python/django-rest-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poligonos_python/graphql-in-the-python-world/leaflet-tokens-folium (1)/flask-graphql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poligonos_python/graphql-in-the-python-world/leaflet-tokens-folium (1)/realm-graphql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poligonos_python/graphql-in-the-python-world/realm-leaflet-tokens-folium-1/polygonsapp_with_python" vcs="Git" />
   </component>
 </project>

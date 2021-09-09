@@ -1,0 +1,67 @@
+[submodule "/packages/poligonosapp_with_django_folium"]
+  path = packages/realm-graphql
+  url = https://github.com/poligonosapp/realm-graphql
+
+[submodule "/packages/poligonosapp_with_django_folium"]
+  path = packages/poligonosapp_with_django_folium
+  url = https://github.com/poligonosapp/poligonosapp_with_django_folium
+
+[submodule "/packages/poligonosapp_api"]
+  path = packages/poligonosapp_api
+  url = https://github.com/poligonosapp/poligonosapp_api
+
+[submodule "/packages/django-rest-framework"]
+  path = packages/django-rest-framework
+  url = https://github.com/poligonosapp/django-rest-framework
+
+[submodule "/packages/poligonosapp-blog"]
+  path = packages/poligonosapp-blog
+  url = https://luismendes070@bitbucket.org/poligonosapp/poligonosapp-blog
+
+
+[submodule "/packages/mongoid-demo"]
+  path = packages/mongoid-demo
+  url = https://github.com/poligonosapp/mongoid-demo.git
+
+[submodule "/packages/android-room-with-a-view"]
+  path = packages/android-room-with-a-view
+  url = https://github.com/poligonosapp/android-room-with-a-view.git
+
+[submodule "/poligonos_rails/meupoligono"]
+  path = poligonos_rails/meupoligono
+  url = https://github.com/poligonosapp/meupoligono.git
+
+[submodule "/xm/xamarin-forms-samples/WebServices/TodoREST"]
+  path = xm/xamarin-forms-samples/WebServices/TodoREST
+  url = https://luismendes070@bitbucket.org/poligonosapp/xamarin-forms-samples/WebServices/TodoREST
+
+[submodule "labs"]
+path = packages/labs/developer-tools/nodejs-debugging/app
+url = https://github.com/poligonosapp/labs.git
+
+[submodule "hello"] 
+  path =  packages/hello 
+  url = https://luismendes070@bitbucket.org/poligonosapp/hello.git
+
+[submodule "packages/Leaflet"] 
+  path =  packages/Leaflet 
+  url = https://luismendes070@bitbucket.org/poligonosapp/Leaflet
+
+[submodule "packages/poligonosapp_angular_http"] 
+  path =  packages/poligonosapp_angular_http
+  url = https://luismendes070@bitbucket.org/poligonosapp/poligonosapp_angular_http
+
+[submodule "packages/poligonosapp_consumer"] 
+  path = packages/poligonosapp_consumer
+  url = https://github.com/poligonosapp/poligonosapp_consumer.git
+
+[submodule "packages/pwa-play-billing"] 
+  path =  packages/pwa-play-billing
+  url = https://github.com/poligonosapp/pwa-play-billing.git
+
+[submodule "packages/tut-react-and-spring-data-rest/"] 
+  path = packages/tut-react-and-spring-data-rest/
+  url = https://luismendes070@bitbucket.org/poligonosapp/tut-react-and-spring-data-rest/
+[submodule "poligonos_rails/meupoligono/poligonos_rails/meupoligono/meupoligono"]
+	path = poligonos_rails/meupoligono/poligonos_rails/meupoligono/meupoligono
+	url = https://github.com/poligonosapp/meupoligono.git
